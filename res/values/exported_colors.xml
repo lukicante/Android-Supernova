@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="ui_backgrounds_primary_background">#ffffffff</color>
+    <color name="ui_backgrounds_secondary_background">#fff2f2f2</color>
+    <color name="ui_backgrounds_tertiary_background">#ffe0e0e0</color>
+    <color name="ui_backgrounds_gray_background">#ff545454</color>
+    <color name="ui_backgrounds_quaternary_background">#ff000000</color>
+    <color name="ui_backgrounds_green_10_background">#ff004f32</color>
+    <color name="ui_backgrounds_brand_background">#ff34e0a1</color>
+    <color name="ui_backgrounds_yellow_background">#fff2b203</color>
+    <color name="ui_backgrounds_yellow_80_background">#fffee39a</color>
+    <color name="ui_backgrounds_red_background">#ffff5d5d</color>
+    <color name="ui_backgrounds_pink_background">#ffffcccc</color>
+    <color name="ui_backgrounds_purple_background">#ff7446af</color>
+    <color name="ui_backgrounds_purple_80_background">#ffdfd3ee</color>
+    <!-- 
+        Use this purple (the lighter of the purples) for the background of banners, shelves, and plus badges and labels 
+    -->
+    <color name="ui_backgrounds_light_purple_background">#fff2ecf9</color>
+    <color name="ui_backgrounds_green_90_background">#ffeafaf4</color>
+    <color name="ui_backgrounds_beige_background">#fff2f1ec</color>
+    <color name="ui_backgrounds_cream_background">#fffaf1ed</color>
+    <color name="ui_backgrounds_plus_background">#ff52327c</color>
+
+    <!-- 
+        Use primaryText for Titles and Headlines 
+    -->
+    <color name="ui_text_primary_text">#ff000000</color>
+    <!-- 
+        Use secondary text for body text and supporting text (almost everything except a title) 
+    -->
+    <color name="ui_text_secondary_text">#ff333333</color>
+    <color name="ui_text_placeholder_text">#ff757575</color>
+    <!-- 
+        This text becomes black in Dark Mode 
+    -->
+    <color name="ui_text_invert_text">#ffffffff</color>
+    <!-- 
+        This text stays black in Dark Mode, use on light backgrounds. 
+    -->
+    <color name="ui_text_on_light_text">#ff000000</color>
+    <!-- 
+        This text stays white in Dark Mode, use on dark backgrounds. 
+    -->
+    <color name="ui_text_on_dark_text">#ffffffff</color>
+    <color name="ui_text_plus_on_light_text">#ff52327c</color>
+    <color name="ui_text_danger_text">#ffcc0000</color>
+
+    <color name="ui_links_primary_link">#ff333333</color>
+    <color name="ui_links_primary_link_disabled">#ffbababa</color>
+    <color name="ui_links_accent_link">#ff7446af</color>
+    <color name="ui_links_on_dark_link">#ffffffff</color>
+    <color name="ui_links_on_dark_link_disabled">#ffbababa</color>
+
+    <color name="ui_icons_primary_icon">#ff000000</color>
+    <color name="ui_icons_secondary_icon">#ffffffff</color>
+    <color name="ui_icons_primary_selected_icon">#ffff5d5d</color>
+    <color name="ui_icons_plus_icon">#ff52327c</color>
+
+    <color name="ui_layout_divider_fill">#ffe0e0e0</color>
+
+    <color name="ui_partnerships_michelin">#ffbd2333</color>
+
+
+</resources>

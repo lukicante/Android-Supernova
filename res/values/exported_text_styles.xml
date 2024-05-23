@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- 
+        Use for desktop layout titles like H1s 
+    -->
+    <style name="ProductTitlesTitle01Dt">
+        <item name="android:textSize">42sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/trip_sans_700</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        This is the responsive mobile web version of H1s 
+    -->
+    <style name="ProductTitlesTitle01Mw">
+        <item name="android:textSize">32sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/trip_sans_700</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        Use for layout titles like LONG H1s. 
+    -->
+    <style name="ProductTitlesTitle01B">
+        <item name="android:textSize">32sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/trip_sans_700</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        Use for layout titles like cluster or section break titles 
+    -->
+    <style name="ProductTitlesTitle02">
+        <item name="android:textSize">28sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/trip_sans_700</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        Use for component and layout titles like shelf and section titles 
+    -->
+    <style name="ProductTitlesTitle03">
+        <item name="android:textSize">24sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/trip_sans_500</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        Use for component and layout titles like card titles 
+    -->
+    <style name="ProductTitlesTitle04">
+        <item name="android:textSize">18sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/trip_sans_500</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        Use for component and layout titles like subsection titles 
+    -->
+    <style name="ProductTitlesTitle05">
+        <item name="android:textSize">16sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/trip_sans_500</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        Use in both productive and brand type theme layouts for body copy. It is a good size for comfortable reading in paragraphs and lists. The color should be secondaryText (dark gray) 
+    -->
+    <style name="ProductBodyBody01">
+        <item name="android:textSize">16sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/trip_sans_400</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        Supporting text 14/regular. Use in both productive and brand type theme layouts for supporting copy. Supporting copy has less importance and emphasis than body copy. Typically the color is secondaryText (dark gray) 
+    -->
+    <style name="ProductSupportingSupporting01">
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/trip_sans_400</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        Supporting text 12/regular. Use in both productive and brand type theme layouts for supporting copy. Supporting copy has less importance and emphasis than body copy. Typically the color is secondaryText (dark gray) 
+    -->
+    <style name="ProductSupportingSupporting02">
+        <item name="android:textSize">12sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/trip_sans_400</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        Supporting text 14/medium. Use in both productive and brand type theme layouts for supporting copy. Supporting copy has less importance and emphasis than body copy. Typically the color is secondaryText (dark gray) 
+    -->
+    <style name="ProductSupportingSupporting03">
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/trip_sans_500</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        Supporting text 12/medium. Use in both productive and brand type theme layouts for supporting copy. Supporting copy has less importance and emphasis than body copy. Typically the color is secondaryText (dark gray) 
+    -->
+    <style name="ProductSupportingSupporting04">
+        <item name="android:textSize">12sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/trip_sans_500</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        54 ultra 
+    -->
+    <style name="BrandDisplayDisplay01Dt">
+        <item name="android:textSize">54sp</item>
+        <item name="android:letterSpacing">2</item>
+        <item name="android:fontFamily">@font/trip_sans_900</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        32 ultra 
+    -->
+    <style name="BrandDisplayDisplay01Mw">
+        <item name="android:textSize">32sp</item>
+        <item name="android:letterSpacing">2</item>
+        <item name="android:fontFamily">@font/trip_sans_900</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        54 bold 
+    -->
+    <style name="BrandDisplayDisplay02Dt">
+        <item name="android:textSize">54sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/trip_sans_700</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        32 bold 
+    -->
+    <style name="BrandDisplayDisplay02Mw">
+        <item name="android:textSize">32sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/trip_sans_700</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        32 medium 
+    -->
+    <style name="BrandDisplayDisplay03">
+        <item name="android:textSize">32sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/trip_sans_500</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        40 Bold 
+    -->
+    <style name="BrandDisplayDisplay04">
+        <item name="android:textSize">40sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/trip_sans_700</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        48 Medium 
+    -->
+    <style name="BrandDisplayDisplay05">
+        <item name="android:textSize">48sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/trip_sans_500</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        48 reg 
+    -->
+    <style name="BrandDisplayDisplay06Dt">
+        <item name="android:textSize">48sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/trip_sans_400</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        32 reg 
+    -->
+    <style name="BrandDisplayDisplay06Mw">
+        <item name="android:textSize">32sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/trip_sans_400</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        28 bold 
+    -->
+    <style name="BrandDisplayDisplay07Dt">
+        <item name="android:textSize">28sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/trip_sans_700</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        24 bold 
+    -->
+    <style name="BrandDisplayDisplay07Mw">
+        <item name="android:textSize">24sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/trip_sans_700</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="BrandDisplayDisplay08">
+        <item name="android:textSize">56sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/trip_sans_700</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        20 reg 
+    -->
+    <style name="BrandBodyBody01Dt">
+        <item name="android:textSize">20sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/trip_sans_400</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        18 reg 
+    -->
+    <style name="BrandBodyBody01Mw">
+        <item name="android:textSize">18sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/trip_sans_400</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        24 reg 
+    -->
+    <style name="BrandBodyBody02">
+        <item name="android:textSize">24sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/georgia_400</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        20 reg 
+    -->
+    <style name="BrandBodyBody03Dt">
+        <item name="android:textSize">20sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/georgia_400</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        16 reg 
+    -->
+    <style name="BrandBodyBody03Mw">
+        <item name="android:textSize">16sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/georgia_400</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        18 reg 
+    -->
+    <style name="BrandBodyBody04">
+        <item name="android:textSize">18sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/georgia_400</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <!-- 
+        18 italic 
+    -->
+    <style name="BrandSupportingBrandSupporting01">
+        <item name="android:textSize">18sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/georgia_400</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+</resources>
+  
+
+  
+
