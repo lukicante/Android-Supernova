@@ -1,0 +1,338 @@
+{
+  "shadow": {
+    "-underlines": {
+      "typeahead-top-divider": {
+        "value": {
+          "color": {
+            "type": "color",
+            "value": "#000000ff"
+          },
+          "x": {
+            "type": "measure",
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": -1
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            }
+          },
+          "y": {
+            "type": "measure",
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 0
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            }
+          },
+          "radius": {
+            "type": "measure",
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 0
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            }
+          },
+          "spread": {
+            "type": "measure",
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 0
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            }
+          },
+          "opacity": {
+            "type": "size",
+            "value": 1
+          }
+        },
+        "type": "shadow"
+      }
+    },
+    "-presentation-ui-kit": {
+      "screen-presentation": {
+        "value": {
+          "color": {
+            "type": "color",
+            "value": "#00000040"
+          },
+          "x": {
+            "type": "measure",
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 4
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            }
+          },
+          "y": {
+            "type": "measure",
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 4
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            }
+          },
+          "radius": {
+            "type": "measure",
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 40
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            }
+          },
+          "spread": {
+            "type": "measure",
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 0
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            }
+          },
+          "opacity": {
+            "type": "size",
+            "value": 0.25
+          }
+        },
+        "type": "shadow"
+      }
+    },
+    "shadows": {
+      "shadow-small": {
+        "value": {
+          "color": {
+            "type": "color",
+            "value": "#00000026"
+          },
+          "x": {
+            "type": "measure",
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 0
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            }
+          },
+          "y": {
+            "type": "measure",
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 2
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            }
+          },
+          "radius": {
+            "type": "measure",
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 3
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            }
+          },
+          "spread": {
+            "type": "measure",
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 0
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            }
+          },
+          "opacity": {
+            "type": "size",
+            "value": 0.1500000059604645
+          }
+        },
+        "type": "shadow",
+        "comment": "Use for sticky footer buttons and search bar"
+      },
+      "shadow-medium": {
+        "value": {
+          "color": {
+            "type": "color",
+            "value": "#00000026"
+          },
+          "x": {
+            "type": "measure",
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 0
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            }
+          },
+          "y": {
+            "type": "measure",
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 2
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            }
+          },
+          "radius": {
+            "type": "measure",
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 12
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            }
+          },
+          "spread": {
+            "type": "measure",
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 0
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            }
+          },
+          "opacity": {
+            "type": "size",
+            "value": 0.1500000059604645
+          }
+        },
+        "type": "shadow",
+        "comment": "use for FABs and overlays"
+      },
+      "shadow-large": {
+        "value": {
+          "color": {
+            "type": "color",
+            "value": "#0000001a"
+          },
+          "x": {
+            "type": "measure",
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 0
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            }
+          },
+          "y": {
+            "type": "measure",
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 2
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            }
+          },
+          "radius": {
+            "type": "measure",
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 54
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            }
+          },
+          "spread": {
+            "type": "measure",
+            "value": {
+              "measure": {
+                "type": "size",
+                "value": 0
+              },
+              "unit": {
+                "type": "string",
+                "value": "pixels"
+              }
+            }
+          },
+          "opacity": {
+            "type": "size",
+            "value": 0.1000000014901161
+          }
+        },
+        "type": "shadow",
+        "comment": "Use for elevated cards like map cards"
+      }
+    }
+  }
+}
