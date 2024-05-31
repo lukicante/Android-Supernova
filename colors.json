@@ -1,0 +1,180 @@
+{
+  "color": {
+    "ui": {
+      "partnerships": {
+        "michelin": {
+          "value": "#bd2333ff",
+          "type": "color"
+        }
+      },
+      "backgrounds": {
+        "primary-background": {
+          "value": "#ffffffff",
+          "type": "color"
+        },
+        "secondary-background": {
+          "value": "#f2f2f2ff",
+          "type": "color"
+        },
+        "tertiary-background": {
+          "value": "#e0e0e0ff",
+          "type": "color"
+        },
+        "gray-background": {
+          "value": "#545454ff",
+          "type": "color"
+        },
+        "quaternary-background": {
+          "value": "#000000ff",
+          "type": "color"
+        },
+        "green-10-background": {
+          "value": "#004f32ff",
+          "type": "color"
+        },
+        "brand-background": {
+          "value": "#34e0a1ff",
+          "type": "color"
+        },
+        "yellow-background": {
+          "value": "#f2b203ff",
+          "type": "color"
+        },
+        "yellow-80-background": {
+          "value": "#fee39aff",
+          "type": "color"
+        },
+        "red-background": {
+          "value": "#ff5d5dff",
+          "type": "color"
+        },
+        "pink-background": {
+          "value": "#ffccccff",
+          "type": "color"
+        },
+        "purple-background": {
+          "value": "#7446afff",
+          "type": "color"
+        },
+        "purple-80-background": {
+          "value": "#dfd3eeff",
+          "type": "color"
+        },
+        "light-purple-background": {
+          "value": "#f2ecf9ff",
+          "type": "color",
+          "comment": "Use this purple (the lighter of the purples) for the background of banners, shelves, and plus badges and labels"
+        },
+        "green-90-background": {
+          "value": "#eafaf4ff",
+          "type": "color"
+        },
+        "beige-background": {
+          "value": "#f2f1ecff",
+          "type": "color"
+        },
+        "cream-background": {
+          "value": "#faf1edff",
+          "type": "color"
+        },
+        "plus-background": {
+          "value": "#52327cff",
+          "type": "color"
+        }
+      },
+      "text": {
+        "primary-text": {
+          "value": "#000000ff",
+          "type": "color",
+          "comment": "Use primaryText for Titles and Headlines"
+        },
+        "secondary-text": {
+          "value": "#333333ff",
+          "type": "color",
+          "comment": "Use secondary text for body text and supporting text (almost everything except a title)"
+        },
+        "placeholder-text": {
+          "value": "#757575ff",
+          "type": "color"
+        },
+        "invert-text": {
+          "value": "#ffffffff",
+          "type": "color",
+          "comment": "This text becomes black in Dark Mode"
+        },
+        "on-light-text": {
+          "value": "#000000ff",
+          "type": "color",
+          "comment": "This text stays black in Dark Mode, use on light backgrounds."
+        },
+        "on-dark-text": {
+          "value": "#ffffffff",
+          "type": "color",
+          "comment": "This text stays white in Dark Mode, use on dark backgrounds."
+        },
+        "plus-on-light-text": {
+          "value": "#52327cff",
+          "type": "color"
+        },
+        "danger-text": {
+          "value": "#cc0000ff",
+          "type": "color"
+        }
+      },
+      "links": {
+        "primary-link": {
+          "value": "#333333ff",
+          "type": "color"
+        },
+        "primary-link-disabled": {
+          "value": "#bababaff",
+          "type": "color"
+        },
+        "accent-link": {
+          "value": "#7446afff",
+          "type": "color"
+        },
+        "on-dark-link": {
+          "value": "#ffffffff",
+          "type": "color"
+        },
+        "on-dark-link-disabled": {
+          "value": "#bababaff",
+          "type": "color"
+        }
+      },
+      "icons": {
+        "primary-icon": {
+          "value": "#000000ff",
+          "type": "color"
+        },
+        "secondary-icon": {
+          "value": "#ffffffff",
+          "type": "color"
+        },
+        "primary-selected-icon": {
+          "value": "#ff5d5dff",
+          "type": "color"
+        },
+        "plus-icon": {
+          "value": "#52327cff",
+          "type": "color"
+        }
+      },
+      "layout": {
+        "divider-fill": {
+          "value": "#e0e0e0ff",
+          "type": "color"
+        }
+      }
+    },
+    "yellow-80-background": {
+      "value": "#fee39aff",
+      "type": "color"
+    },
+    "primary-tab-overlay": {
+      "value": "#333333ff",
+      "type": "color"
+    }
+  }
+}

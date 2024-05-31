@@ -1,0 +1,2282 @@
+{
+  "typography": {
+    "product": {
+      "titles": {
+        "title01-dt": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "Trip Sans"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 42
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 120
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            }
+          },
+          "type": "typography",
+          "comment": "Use for desktop layout titles like H1s"
+        },
+        "title01-mw": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "Trip Sans"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 32
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 120
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            }
+          },
+          "type": "typography",
+          "comment": "This is the responsive mobile web version of H1s"
+        },
+        "title01b": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "Trip Sans"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 32
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 120
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            }
+          },
+          "type": "typography",
+          "comment": "Use for layout titles like LONG H1s."
+        },
+        "title02": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "Trip Sans"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 28
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 120
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            }
+          },
+          "type": "typography",
+          "comment": "Use for layout titles like cluster or section break titles"
+        },
+        "title03": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "Trip Sans"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 24
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 120
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            }
+          },
+          "type": "typography",
+          "comment": "Use for component and layout titles like shelf and section titles"
+        },
+        "title04": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "Trip Sans"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 18
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 120
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            }
+          },
+          "type": "typography",
+          "comment": "Use for component and layout titles like card titles"
+        },
+        "title05": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "Trip Sans"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 16
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 120
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            }
+          },
+          "type": "typography",
+          "comment": "Use for component and layout titles like subsection titles"
+        }
+      },
+      "body": {
+        "body01": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "Trip Sans"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 16
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 140
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            }
+          },
+          "type": "typography",
+          "comment": "Use in both productive and brand type theme layouts for body copy. It is a good size for comfortable reading in paragraphs and lists. The color should be secondaryText (dark gray)"
+        }
+      },
+      "supporting": {
+        "supporting01": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "Trip Sans"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 14
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 120
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            }
+          },
+          "type": "typography",
+          "comment": "Supporting text 14/regular. Use in both productive and brand type theme layouts for supporting copy. Supporting copy has less importance and emphasis than body copy. Typically the color is secondaryText (dark gray)"
+        },
+        "supporting02": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "Trip Sans"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 12
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 120
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            }
+          },
+          "type": "typography",
+          "comment": "Supporting text 12/regular. Use in both productive and brand type theme layouts for supporting copy. Supporting copy has less importance and emphasis than body copy. Typically the color is secondaryText (dark gray)"
+        },
+        "supporting03": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "Trip Sans"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 14
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 120
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            }
+          },
+          "type": "typography",
+          "comment": "Supporting text 14/medium. Use in both productive and brand type theme layouts for supporting copy. Supporting copy has less importance and emphasis than body copy. Typically the color is secondaryText (dark gray)"
+        },
+        "supporting04": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "Trip Sans"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 12
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 120
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            }
+          },
+          "type": "typography",
+          "comment": "Supporting text 12/medium. Use in both productive and brand type theme layouts for supporting copy. Supporting copy has less importance and emphasis than body copy. Typically the color is secondaryText (dark gray)"
+        }
+      }
+    },
+    "brand": {
+      "display": {
+        "display-01-dt": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "Trip Sans"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "900"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 54
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 2
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 120
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            }
+          },
+          "type": "typography",
+          "comment": "54 ultra"
+        },
+        "display-01-mw": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "Trip Sans"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "900"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 32
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 2
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 124
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            }
+          },
+          "type": "typography",
+          "comment": "32 ultra"
+        },
+        "display-02-dt": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "Trip Sans"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 54
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 120
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            }
+          },
+          "type": "typography",
+          "comment": "54 bold"
+        },
+        "display-02-mw": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "Trip Sans"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 32
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 120
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            }
+          },
+          "type": "typography",
+          "comment": "32 bold"
+        },
+        "display-03": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "Trip Sans"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 32
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 120
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            }
+          },
+          "type": "typography",
+          "comment": "32 medium"
+        },
+        "display-04": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "Trip Sans"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 40
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 100
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            }
+          },
+          "type": "typography",
+          "comment": "40 Bold"
+        },
+        "display-05": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "Trip Sans"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "500"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 48
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 120
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            }
+          },
+          "type": "typography",
+          "comment": "48 Medium"
+        },
+        "display-06-dt": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "Trip Sans"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 48
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 120
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            }
+          },
+          "type": "typography",
+          "comment": "48 reg"
+        },
+        "display-06-mw": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "Trip Sans"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 32
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 120
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            }
+          },
+          "type": "typography",
+          "comment": "32 reg"
+        },
+        "display-07-dt": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "Trip Sans"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 28
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 100
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            }
+          },
+          "type": "typography",
+          "comment": "28 bold"
+        },
+        "display-07-mw": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "Trip Sans"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 24
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 100
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            }
+          },
+          "type": "typography",
+          "comment": "24 bold"
+        },
+        "display-08": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "Trip Sans"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "700"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 56
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 100
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            }
+          },
+          "type": "typography"
+        }
+      },
+      "body": {
+        "body-01-dt": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "Trip Sans"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 20
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 120
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            }
+          },
+          "type": "typography",
+          "comment": "20 reg"
+        },
+        "body-01-mw": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "Trip Sans"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 18
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 120
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            }
+          },
+          "type": "typography",
+          "comment": "18 reg"
+        },
+        "body-02": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "Georgia"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 24
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 120
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            }
+          },
+          "type": "typography",
+          "comment": "24 reg"
+        },
+        "body-03-dt": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "Georgia"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 20
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 120
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            }
+          },
+          "type": "typography",
+          "comment": "20 reg"
+        },
+        "body-03-mw": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "Georgia"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 16
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 130
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            }
+          },
+          "type": "typography",
+          "comment": "16 reg"
+        },
+        "body-04": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "Georgia"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 18
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 120
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            }
+          },
+          "type": "typography",
+          "comment": "18 reg"
+        }
+      },
+      "supporting": {
+        "brand-supporting-01": {
+          "value": {
+            "font": {
+              "type": "font",
+              "value": {
+                "family": {
+                  "type": "string",
+                  "value": "Georgia"
+                },
+                "subfamily": {
+                  "type": "string",
+                  "value": "400"
+                }
+              }
+            },
+            "fontSize": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 18
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "textDecoration": "None",
+            "textCase": "Original",
+            "letterSpacing": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            },
+            "paragraphIndent": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 0
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "pixels"
+                }
+              }
+            },
+            "lineHeight": {
+              "type": "measure",
+              "value": {
+                "measure": {
+                  "type": "size",
+                  "value": 120
+                },
+                "unit": {
+                  "type": "string",
+                  "value": "percent"
+                }
+              }
+            }
+          },
+          "type": "typography",
+          "comment": "18 italic"
+        }
+      }
+    }
+  }
+}
